@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: mikesb
+Build-Jdk: 14.0.1
+Implementation-Title: Reddit Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Main-Class: ${start-class}
+
